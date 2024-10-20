@@ -46,9 +46,16 @@ Python 3.8+
 TensorFlow 2.x or Keras
 NumPy, Pandas, OpenCV, and Matplotlib
 # Architecture
+![image](https://github.com/user-attachments/assets/4c3e2e7b-1a80-4567-b30a-aa976c87e292)
+
 # Results
 Train Accuracy : 93.75%
 Validation Accuracy : 96.42%
 Test Accuracy : 89.6771%
 # Predictions
+![image](https://github.com/user-attachments/assets/7f088da1-e740-403a-b90c-d0fdd41d5001)
+![image](https://github.com/user-attachments/assets/37fdda46-b39c-43a5-811e-e1a56d4bbfa2)
+![image](https://github.com/user-attachments/assets/be09914e-1e41-4c8c-b8cd-f115349430e0)
+
+
 
